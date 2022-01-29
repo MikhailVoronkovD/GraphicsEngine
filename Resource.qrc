@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/c++.jpg</file>
+        <file>images/picture.jpg</file>
+    </qresource>
+</RCC>
